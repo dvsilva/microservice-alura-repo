@@ -2,7 +2,7 @@ spring:
   datasource:
     password: 
     username: root
-    url: 'jdbc:mysql://localhost:3306/db_alura_loja'
+    url: 'jdbc:mysql://localhost:3306/db_micro_inventario'
   jpa:
     hibernate:
       ddl-auto: update
